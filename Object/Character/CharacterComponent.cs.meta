@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Piligrim/Assets/Scripts/CharacterStateMachine.cs.meta
+guid: 2f08c12edec84d042a9e3fda2be8cfba
+========
+guid: c2df6784d87b1764fa8ab958919d657a
+>>>>>>>> Anton.P:Piligrim/Assets/Scripts/Character/CharacterComponent.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
